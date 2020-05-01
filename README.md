@@ -4,7 +4,11 @@
 ## About : 
 Speech recognition problem can be solved using traditional ways like HMMs. With increased computational power and bigger datasets we can get better accuracy on DNN than HMM. 
 Broad Structure:
-Speech -> Feature Extraction using pre trained base model -> Fine Tuning Encoder Network(LSTM/RNNs) -> Fine tuning English LM for Hindi Speech  -> Repeating Tasks for Multiple Users.
+* Speech 
+* Feature Extraction using pre trained base model 
+* Fine Tuning Encoder Network(LSTM/RNNs)  
+* Fine tuning English LM for Hindi Speech  
+* Repeating Tasks for Multiple Users.
 
 ## Pre-processing data : 
 
