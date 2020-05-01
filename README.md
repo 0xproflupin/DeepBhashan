@@ -30,3 +30,7 @@ In the folder named dataset -> text_files, chapter wise are present. To prepare 
 * The DeepSpeech model has been trained on on the English alphabet Hindi Speech Dataset. This ran successfully and the following is the validation and training loss curves shown below.
 
 ![Loss curve](https://github.com/anvitmangal/DeepBhashan/blob/master/Models/Unknown.jpeg)
+
+The model was trained for 20 epochs, as the validation loss was beginning to be stagnant.
+
+The code, trained Models, training-test-validation data, LMs can be found here :[Code](https://drive.google.com/drive/folders/1ZLLmPVtWUsUjb3863AA8nOp0z16sKjTo)
