@@ -33,16 +33,13 @@ In the folder named dataset -> text_files, chapter wise are present. To prepare 
 
 The model was trained for 20 epochs, as the validation loss was beginning to be stagnant.
 
-The code, trained Models, training-test-validation data, LMs can be found here :[Code](https://drive.google.com/drive/folders/1ZLLmPVtWUsUjb3863AA8nOp0z16sKjTo)
+The code, trained Models, training-test-validation data, LMs can be found here : [Code](https://drive.google.com/drive/folders/1ZLLmPVtWUsUjb3863AA8nOp0z16sKjTo)
 
 
 ** Results  :
 Sample output to some of the sentences are shown below :
 
-/***
-| __Ausio__ | __Ground Truth__ | __DeepSpeech output with LM__ |
+/***| __Ausio__ | __Ground Truth__ | __DeepSpeech output with LM__ |
 |-------------|------------|------------|
 | [Audio_1](https://drive.google.com/drive/u/0/folders/14FAz8jCiVZKSfPp_XAWhyc4Zt4feVNDB)| na apane kisee bhaee se aur na hee mere kisee parivaar ke sadasy se | na apane kisee bhaee se aur na hee mere kisee parivaar ke sadasy se|
-| [Audio_2](https://drive.google.com/drive/u/0/folders/14uiT55FU_w6dghF6xe7H1pN44M1HwAAB)| bas keval ek hee aap aaj ke baad kisee se bhee is vishay mein koee baat nahin **karoge**| bas keval ek hee ki aap aaj ke baad kisee se bhee is vishay mein koee baat nahin **karenge**|
-
-***/
+| [Audio_2](https://drive.google.com/drive/u/0/folders/14uiT55FU_w6dghF6xe7H1pN44M1HwAAB)| bas keval ek hee aap aaj ke baad kisee se bhee is vishay mein koee baat nahin **karoge**| bas keval ek hee ki aap aaj ke baad kisee se bhee is vishay mein koee baat nahin **karenge**|***/
