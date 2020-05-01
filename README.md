@@ -28,3 +28,5 @@ In the folder named dataset -> text_files, chapter wise are present. To prepare 
 * Language Model is generated using the KenLM module [KenLM](https://github.com/kpu/kenlm) for both Devanagari and English alphabet for the Hindi Speech Dataset.
 
 * The DeepSpeech model has been trained on on the English alphabet Hindi Speech Dataset. This ran successfully and the following is the validation and training loss curves shown below.
+
+![Loss curve](https://github.com/anvitmangal/DeepBhashan/blob/master/Models/Unknown.jpeg)
