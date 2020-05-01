@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/DeepSpeech/results/best_dev-6103"
+all_model_checkpoint_paths: "/content/DeepSpeech/results/best_dev-6103"

@@ -1,0 +1,6 @@
+model_checkpoint_path: "/content/DeepSpeech/results/train-7539"
+all_model_checkpoint_paths: "/content/DeepSpeech/results/train-6103"
+all_model_checkpoint_paths: "/content/DeepSpeech/results/train-6462"
+all_model_checkpoint_paths: "/content/DeepSpeech/results/train-6821"
+all_model_checkpoint_paths: "/content/DeepSpeech/results/train-7180"
+all_model_checkpoint_paths: "/content/DeepSpeech/results/train-7539"
