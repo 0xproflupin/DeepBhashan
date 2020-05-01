@@ -23,8 +23,8 @@ In the folder named dataset -> text_files, chapter wise are present. Run the scr
 
 
 ## Training  : 
-* Pre-tained model [DeepSpeech] (https://github.com/mozilla/DeepSpeech) has been used to fine tune the parameters for the pre-processed data. All the training has been done from scratch.
+* Pre-tained model [DeepSpeech](https://github.com/mozilla/DeepSpeech) has been used to fine tune the parameters for the pre-processed data. All the training has been done from scratch.
 
-* Language Model is generated using the KenLM module [KenLM] (https://github.com/kpu/kenlm) for both Devanagari and English alphabet for the Hindi Speech Dataset.
+* Language Model is generated using the KenLM module [KenLM](https://github.com/kpu/kenlm) for both Devanagari and English alphabet for the Hindi Speech Dataset.
 
 * The DeepSpeech model has been trained on on the English alphabet Hindi Speech Dataset. This ran successfully and the following is the validation and training loss curves shown below.
