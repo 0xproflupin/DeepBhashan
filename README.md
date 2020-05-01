@@ -42,10 +42,6 @@ Sample output to some of the sentences are shown below :
 /***
 | __Ausio__ | __Ground Truth__ | __DeepSpeech output with LM__ |
 |-------------|------------|------------|
-| [Audio_1](https://drive.google.com/drive/u/0/folders/14FAz8jCiVZKSfPp_XAWhyc4Zt4feVNDB)         | na apane kisee bhaee se aur na hee mere kisee parivaar ke sadasy se
-     | na apane kisee bhaee se aur na hee mere kisee parivaar ke sadasy se
-      |
-| [Audio_2](https://drive.google.com/drive/u/0/folders/14uiT55FU_w6dghF6xe7H1pN44M1HwAAB)         | bas keval ek hee aap aaj ke baad kisee se bhee is vishay mein koee baat nahin **karoge**
- | bas keval ek hee ki aap aaj ke baad kisee se bhee is vishay mein koee baat nahin **karenge**
-     |
+| [Audio_1](https://drive.google.com/drive/u/0/folders/14FAz8jCiVZKSfPp_XAWhyc4Zt4feVNDB)| na apane kisee bhaee se aur na hee mere kisee parivaar ke sadasy se | na apane kisee bhaee se aur na hee mere kisee parivaar ke sadasy se|
+| [Audio_2](https://drive.google.com/drive/u/0/folders/14uiT55FU_w6dghF6xe7H1pN44M1HwAAB)| bas keval ek hee aap aaj ke baad kisee se bhee is vishay mein koee baat nahin **karoge**| bas keval ek hee ki aap aaj ke baad kisee se bhee is vishay mein koee baat nahin **karenge**|
 ***/
