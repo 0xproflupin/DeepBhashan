@@ -36,7 +36,7 @@ The model was trained for 20 epochs, as the validation loss was beginning to be 
 The code, trained Models, training-test-validation data, LMs can be found here : [Code](https://drive.google.com/drive/folders/1ZLLmPVtWUsUjb3863AA8nOp0z16sKjTo)
 
 
-** Results  :
+## Results  :
 Sample output to some of the sentences are shown below :
 
 /***
