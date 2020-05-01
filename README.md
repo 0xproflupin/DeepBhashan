@@ -21,6 +21,8 @@ Aeneas library has been used to preprocess the text files and generate a json sy
 
 In the folder named dataset -> text_files, chapter wise are present. To prepare the json files run the script ***Preparing_jsons.py***. After creating the json files manually fine tune them to ensure proper matching of the text with the audio files in jsons. Once done with jsons, run the script ***Preparing_csvs.py*** to prepare csvs for each chapter. Merge all csvs to create a final one and then using ***Splitting_data.py*** seperate it into training, testing and validation data with a split ratio of 70:20:10. For seperating wav files in each csv seperately use ***Splitting_wav_files.py***.
 
+## Preparing Hindi devnagri dataset:
+In the folder named dataset -> Hindi dictionary and english dictionary is present. To prepare the one-to-one mapping, an array of unique english words can be formed using ***English_dictionary_fromHindi.py***. These arrays can be used to make the final csv's of devnagri text by using csv_mapping_EnglishToHindi.py
 
 ## Training  : 
 * Pre-tained model [DeepSpeech](https://github.com/mozilla/DeepSpeech) has been used to fine tune the parameters for the pre-processed data. All the training has been done from scratch.
